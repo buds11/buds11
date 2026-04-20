@@ -71,4 +71,4 @@ Seorang konsultan independen yang menyediakan layanan integrasi antara perencana
 <img src="https://img.shields.io/badge/Geoserver-Map Server-blue?style=flat"><br>
 ---
 
-> 🌐 *CV ini dihosting di GitHub — silakan jelajahi tab repositori saya untuk melihat pengalaman proyek*
+> 🌐 *CV ini dihosting di GitHub — silahkan jelajahi **tab repositori** saya untuk melihat pengalaman proyek*
